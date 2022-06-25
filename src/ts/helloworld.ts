@@ -1,2 +1,2 @@
-const message:string = 'Hello, World! in ts';
-console.log(message);
+const msg:string = 'Hello, World! in ts';
+console.log(msg);
